@@ -1,0 +1,5 @@
+public static void main(String[] args){
+String str="hello";
+int count=5;
+System.out.println(str.repeat(count));
+}
